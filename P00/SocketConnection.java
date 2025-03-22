@@ -2,9 +2,7 @@ import java.io.IOException;
 import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
-/**
- * @author Tshukudu T
- */
+
 public class SocketConnection {
 	
 	private Socket socket=null;
